@@ -1,0 +1,6 @@
+.myGraphic
+secrets.txt
+
+# to cooment
+
+# *.txt (ignores all the files with .txt extention)
